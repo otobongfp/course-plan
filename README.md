@@ -199,6 +199,11 @@ following resources to continue your FP and Haskell journey:
   projects.
 * [Awesome List of Haskell mentors](https://github.com/willbasky/Awesome-list-of-Haskell-mentors):
   A list of Haskell projects and mentors willing to help you master Haskell.
+* [An indepth playlist for most of the topics introduced here](https://www.youtube.com/watch?v=a0fPHkzK36I&list=PLF1Z-APd9zK7usPMx3LGMZEHrECUGodd3)
+  Part of Haskell course series taught at the university of Nottingham
+* [An Indepth playlist on Advanced Functional Programming in Haskell](https://www.youtube.com/watch?v=-qhbNGghVfc&list=PLF1Z-APd9zK5uFc8FKr_di9bfsYv8-lbc):
+  A playlist of 5 video materials with an example to build a sudoku game
+  
 
 ## History
 
